@@ -1,0 +1,14 @@
+#ex1
+a=int(input())
+print(a)
+#ex2
+b=int(input())
+print(a+b)
+#ex3
+d=int(input())
+c=int(input())
+print(d*c)
+#ex4
+print("Kanat")
+#ex5
+print('kanat')
