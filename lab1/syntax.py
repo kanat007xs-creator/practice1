@@ -10,5 +10,6 @@ c=int(input())
 print(d*c)
 #ex4
 print("Kanat")
+print("kanat")
 #ex5
-print('kanat')
+print('kanat');print("kanat")
